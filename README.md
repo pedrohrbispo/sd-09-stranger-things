@@ -64,11 +64,11 @@ Nesse projeto, você será capaz de:
 
 Para entregar o seu projeto você deverá criar um Pull Request em **cada um destes** repositórios:
 
-- [Repositório com o backend](https://github.com/betrybe/sd-09-stranger-things-backend).
+- [Repositório com o backend](https://github.com/tryber/sd-09-stranger-things-backend).
 
-- [Repositório com o frontend](https://github.com/betrybe/sd-09-stranger-things-frontend);
+- [Repositório com o frontend](https://github.com/tryber/sd-09-stranger-things-frontend);
 
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
+Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.tryber.com/intro/git/) sempre que precisar!
 
 ---
 
@@ -176,7 +176,7 @@ Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um vid
 
 À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests dos seus colegas. Fiquem atentos às mensagens do "Pull Reminders" no Slack!
 
-Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
+Use o material que você já viu sobre [Code Review](https://course.tryber.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
 
 ---
 
